@@ -41,6 +41,11 @@ npm install
 ```bash
 npm run dev
 ```
+**If npm has issues installing try:**
 
-Open [http://localhost:5173](http://localhost:5173) to view the project.
+```bash
+npm install -g npm
+```
+
+Open [http://localhost:5173](http://localhost:5173) to view the project. Or whatever port vite tells you.
 
